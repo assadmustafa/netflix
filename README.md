@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-Author: [Assad Mustafa](https://github.com/assadmustafa).
+# Netflix
 
 ![App Screenshot](public/preview_01.png)
 
@@ -24,3 +22,6 @@ Installs node modules.\
 Runs the app in the development mode.\
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+
+Author: [Assad Mustafa](https://github.com/assadmustafa).
